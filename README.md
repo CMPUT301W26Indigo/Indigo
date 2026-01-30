@@ -9,3 +9,6 @@ CCID: jigarjee
 
 Name: David Xiang
 CCID: dxiang1
+
+Name: Levi Stevenson
+CCID: lgs
