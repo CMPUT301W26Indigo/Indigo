@@ -12,3 +12,6 @@ CCID: dxiang1
 
 Name: Levi Stevenson
 CCID: lgs
+
+Name: Lucia Hernandez-Echevarria
+CCID: lhernan2
